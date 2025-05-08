@@ -1,0 +1,82 @@
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+.main.tf.swp
+.terraform.lock.hcl
+.terraform_bucket_code.swp
+../ 
+        ../ .pub
+        ../.aws/
+        ../.bash_history
+        ../.bash_history-13201.tmp
+        ../.bash_history-14366.tmp
+        ../.bash_history-15486.tmp
+        ../.bash_history-18443.tmp
+        ../.bash_history-25547.tmp
+        ../.bash_history-28403.tmp
+        ../.bash_history-28888.tmp
+        ../.bash_history-31175.tmp
+        ../.bash_history-31183.tmp
+        ../.bash_history-32810.tmp
+        ../.bash_history-34652.tmp
+        ../.bash_history-35852.tmp
+        ../.bash_history-37881.tmp
+        ../.bash_history-38138.tmp
+        ../.bash_history-38779.tmp
+        ../.bash_history-42277.tmp
+        ../.bash_history-46943.tmp
+        ../.bash_history-54431.tmp
+        ../.bash_history-58722.tmp
+        ../.bash_history-59216.tmp
+        ../.bash_history-66021.tmp
+        ../.bash_logout
+        ../.bashrc
+        ../.cache/
+        ../.config/
+        ../.dotnet/
+        ../.git-credentials
+        ../.gitconfig
+        ../.gnupg/
+        ../.kube/
+        ../.lesshst
+        ../.local/
+        ../.minikube/
+        ../.pki/
+        ../.profile
+        ../.ssh/
+        ../.sudo_as_admin_successful
+        ../.terraform.d/
+        ../.terraform.lock.hcl
+        ../.terraform/
+        ../.viminfo
+        ../.vscode/
+        ../.wget-hsts
+        ../Desktop/
+        ../Downloads/
+        ../Pictures/
+        ../Raman/
+        ../Terraform userproject/
+        ../Trishul/
+        ../ansible-env/
+        ../automation/
+        ../aws/
+        ../awscli-extract/
+        ../awscliv2.zip
+        ../create_user.yml
+        ../file.yml
+        ../git_repo/
+        ../ingress_demo/
+        ../keybase_amd64.deb
+        ../kwid/
+        ../mahi/
+        ../main.tf
+        ../minikube-linux-amd64
+        ../nginx.yml
+        ../nginx/
+        ../s3_bucket/
+        ../snap/
+        ../t rsa
+        ../t rsa.pub
+        ../test.yml
+        ./
+
